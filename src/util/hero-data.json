@@ -1,0 +1,54 @@
+{
+  "heroSection": {
+    "instagramFollowers": "1.5k",
+    "instagramLink": "https://www.instagram.com/freshh_spa/",
+    "avatars": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWR0WEFgPLnanTTJx_VQjQkRQ8Xx3YO76DUxVfWEjl46y4cvd8HYA=w36-h36-p-rp-mo-br100",
+        "profileUrl": "https://g.co/kgs/Me8wjAu"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUZNqng4y6OABGopMwRZdALMAIrPK4qz-_elplSgp8UZNNltMOelQ=s64-c-rp-mo-ba4-br100",
+        "profileUrl": "https://g.co/kgs/9H9og3e"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUtyuiFFIQ8uiGmXBb8tz7a8O28eEznLPH7_URUipk3RLi4cXhA=s64-c-rp-mo-br100",
+        "profileUrl": "https://g.co/kgs/FTWwNey"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW__yjFNhdrU7QfQd82glq_k2JWKzUFlLPxWNFRJNH_t_26_7XgQg=s64-c-rp-mo-br100",
+        "profileUrl": "https://g.co/kgs/gjZErZh"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX5q-szRZY6cxblNmymd0JS_Y9kqJVxwHvyC0MajLB-9VmbHdnY=s64-c-rp-mo-br100",
+        "profileUrl": "https://g.co/kgs/2YtrtHr"
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWkD1uRJkqoxPlOv3HSf09hwoCHCjdvP34aoDRwhRR_J_N2T48a=s64-c-rp-mo-ba3-br100",
+        "profileUrl": "https://g.co/kgs/2wknnBx"
+      }
+    ],
+    "ShopName": "Freshh_spa",
+    "reviewRating": "4.5",
+    "reviewCount": "500",
+    "heading": "Experience Expert Beauty Services at -Freshh Family Salon and Spa-",
+    "scrollText": "Established in 2011 | Unisex Salon"
+  },
+  "videoSlider": [
+    {
+      "src": "/videos/h3_v.mp4",
+      "type": "video",
+      "instagram": "https://instagram.com/example1"
+    },
+    {
+      "src": "/videos/h2_v.mp4",
+      "type": "video",
+      "instagram": "https://instagram.com/example2"
+    },
+    {
+      "src": "/videos/h1_v.mp4",
+      "type": "video",
+      "instagram": "https://instagram.com/example3"
+    }
+  ]
+}

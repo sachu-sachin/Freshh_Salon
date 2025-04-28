@@ -1,0 +1,13 @@
+{
+  "description": "Welcome to Freshh spa Signature Salon! As a Family salon & spa in Near CAI Industries, Peelamedu, we’re passionate about creating a welcoming space where you can relax and feel your best. Our experienced team is committed to ongoing learning and the latest beauty trends, ensuring you always receive top-quality care.",
+  "heading": "Discover -Coimbatore's- Best Salon & Spa -Freshh spa-",
+  "stats": [
+    { "value": "7+", "label": "Years of Experience" },
+    { "value": "100k+", "label": "Happy Clients" },
+    { "value": "1k+", "label": "Successful Projects" }
+  ],
+  "abtImg": {
+    "src": "https://images.jdmagicbox.com/v2/coimbatore/b7/0422px422.x422.111122185404.d8b7/catalogue/freshh-family-salon-and-spa-peelamedu-coimbatore-bdb72.jpg",
+    "alt": "About Us"
+  }
+}

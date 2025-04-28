@@ -1,0 +1,12 @@
+{
+  "heading": "Discover Our -Instagram Gallery-",
+  "buttonText": "Follow us on instagram",
+  "posts": [
+    { "src": "https://www.instagram.com/p/C-r8vHzSrU5/embed", "title": "Instagram Post 1" },
+    { "src": "https://www.instagram.com/p/DFnMbFXueTb/embed", "title": "Instagram Post 2" },
+    { "src": "https://www.instagram.com/p/DFxeM1zBC1q/embed", "title": "Instagram Post 3" },
+    { "src": "https://www.instagram.com/p/DEIAq6UyKeh/embed", "title": "Instagram Post 4" },
+    { "src": "https://www.instagram.com/p/DAtDZi2TFYA/embed", "title": "Instagram Post 5" },
+    { "src": "https://www.instagram.com/p/C_BDXvFSFNk/embed", "title": "Instagram Post 6" }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "heading": "Pamper Yourself with -Our Top Services-",
+  "services": [
+    {
+      "title": "Hair Care & Styling",
+      "image": "src/assets/s-hair.jpg",
+      "subServices": [
+        "Hair Cut",
+        "Hair Colour",
+        "Hair Straightening",
+        "Hair Styling"
+      ],
+      "tag": "Popular"
+    },
+    {
+      "title": "Face Care",
+      "image": "src/assets/s-grom.jpg",
+      "subServices": [
+        "Facial",
+        "Face Clean Up",
+        "Threading",
+        "Face Waxing"
+      ],
+      "tag": "Trending"
+    },
+    {
+      "title": "Makeup",
+      "image": "src/assets/s-bride.jpg",
+      "subServices": [
+        "Bridal Makeup",
+        "Basic Makeup",
+        "Make Up",
+        "Bridal package"
+      ],
+      "tag": "Featured"
+    },
+    {
+      "title": "Grooming",
+      "image": "src/assets/s-beard.jpg",
+      "subServices": [
+        "Beard Styling",
+        "Beard Trimming",
+        "Waxing",
+        "Shaving"
+      ],
+      "tag": "General"
+    },
+    {
+      "title": "Spa & Relaxation",
+      "image": "src/assets/s-spa.jpg",
+      "subServices": [
+        "Massage",
+        "Head Massage",
+        "Swedish Massage",
+        "Hot Stone Massage"
+      ],
+      "tag": "Relax"
+    },
+    {
+       "title": "Nail Services",
+       "image": "src/assets/s-nails.jpg",
+       "subServices": [
+        "Manicure",
+        "Pedicure"
+       ],
+       "tag": "Essential"
+    }
+  ]
+}

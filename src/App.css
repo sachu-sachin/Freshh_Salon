@@ -1,0 +1,10 @@
+.EmbeddedMediaImage{
+    object-fit: cover !important;
+    max-width: 100%; 
+    height: auto;
+}
+
+.iframe-insta img{
+    object-fit: cover !important;
+    display: none;
+}
