@@ -8,3 +8,11 @@
     object-fit: cover !important;
     display: none;
 }
+
+html#facebook .HeaderSecondaryContent {
+    display: none;
+}
+
+.Embed{
+    display: none;
+}

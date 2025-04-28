@@ -19,12 +19,14 @@ export default function InstagramGallery() {
                                 frameBorder="0"
                                 scrolling="no"
                                 title={post.title || `Instagram Post ${idx + 1}`}
+                                hideCaption="true"
+                                allowFullScreen="true"
                             ></iframe>
                         </div>
                     ))}
                 </div>
                 <div className="flex justify-center mt-10">
-                    <ShimmerButton className="shadow-2xl">
+                    <ShimmerButton className="shadow-2xl" onClick={() => window.open(galleryData.instagramLink, '_blank')}>
                         <span className="whitespace-pre-wrap text-center text-sm font-medium leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 lg:text-lg">
                             {galleryData.buttonText} <ArrowUpRight className="inline" size={16} />
                         </span>

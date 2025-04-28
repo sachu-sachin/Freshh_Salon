@@ -3,7 +3,7 @@
   "services": [
     {
       "title": "Hair Care & Styling",
-      "image": "src/assets/s-hair.jpg",
+      "image": "images/s-hair.jpg",
       "subServices": [
         "Hair Cut",
         "Hair Colour",
@@ -14,7 +14,7 @@
     },
     {
       "title": "Face Care",
-      "image": "src/assets/s-grom.jpg",
+      "image": "images/s-grom.jpg",
       "subServices": [
         "Facial",
         "Face Clean Up",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Makeup",
-      "image": "src/assets/s-bride.jpg",
+      "image": "images/s-bride.jpg",
       "subServices": [
         "Bridal Makeup",
         "Basic Makeup",
@@ -36,7 +36,7 @@
     },
     {
       "title": "Grooming",
-      "image": "src/assets/s-beard.jpg",
+      "image": "images/s-beard.jpg",
       "subServices": [
         "Beard Styling",
         "Beard Trimming",
@@ -47,7 +47,7 @@
     },
     {
       "title": "Spa & Relaxation",
-      "image": "src/assets/s-spa.jpg",
+      "image": "images/s-spa.jpg",
       "subServices": [
         "Massage",
         "Head Massage",
@@ -58,7 +58,7 @@
     },
     {
        "title": "Nail Services",
-       "image": "src/assets/s-nails.jpg",
+       "image": "images/s-nails.jpg",
        "subServices": [
         "Manicure",
         "Pedicure"
